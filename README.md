@@ -60,6 +60,22 @@
 
 ---
 
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/KhoaDang21">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:khoadang210903@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/share/1AFzV5LQ3z/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,23 +97,7 @@
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/KhoaDang21">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:khoadang210903@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/share/1AFzV5LQ3z/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
-
----
-
-## 💡 Random Dev Quote
+## � Randeom Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
