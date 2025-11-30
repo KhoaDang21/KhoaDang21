@@ -12,12 +12,11 @@
 
 ## 👨‍💻 About Me & Tech Stack
 
-👋 Hi, I'm **Khoa Dang** - a passionate Web Developer from Vietnam 🇻🇳
+👋 Hi, I'm **Khoa Dang** - a student at FPT University, about me:
 
-- 💼 **Role:** Web Developer
-- 🎯 **Current Focus:** Frontend Development & Learning Backend
-- � **Ask me about:** Web dev, Frontend, UI/UX, Tech
-- 🌱 **Currently Learning:** Backend Development with Node.js & Database Management
+🔭 I’m currently working on 🌐Web Development
+🌱 I’m currently learning Backend
+👯 I’m looking to collaborate on 🌐Web Development
 
 ### � Frontend Development
 
@@ -63,13 +62,13 @@
 
 <p align="center">
   <a href="https://github.com/KhoaDang21">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="45" alt="GitHub" />
   </a>
   <a href="mailto:khoadang210903@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/share/1AFzV5LQ3z/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="45" alt="Facebook" />
   </a>
 </p>
 
