@@ -14,9 +14,9 @@
 
 👋 Hi, I'm **Khoa Dang** - a student at FPT University, about me:
 
--🔭 I’m currently working on 🌐Web Development
--🌱 I’m currently learning Backend
--👯 I’m looking to collaborate on 🌐Web Development
+🔭 I’m currently working on 🌐 Web Development  
+🌱 I’m currently learning Backend  
+👯 I’m looking to collaborate on 🌐 Web Development
 
 ### � Frontend Development
 
