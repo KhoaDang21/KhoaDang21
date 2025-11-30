@@ -14,9 +14,9 @@
 
 👋 Hi, I'm **Khoa Dang** - a student at FPT University, about me:
 
-🔭 I’m currently working on 🌐Web Development
-🌱 I’m currently learning Backend
-👯 I’m looking to collaborate on 🌐Web Development
+-🔭 I’m currently working on 🌐Web Development
+-🌱 I’m currently learning Backend
+-👯 I’m looking to collaborate on 🌐Web Development
 
 ### � Frontend Development
 
@@ -60,13 +60,14 @@
 
 ## 📫 Connect With Me
 
+- Email: <a href="mailto:khoadang210903@gmail.com">khoadang210903@gmail.com</a>
+<br/><br/>
+
 <p align="center">
   <a href="https://github.com/KhoaDang21">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="45" alt="GitHub" />
   </a>
-  <a href="mailto:khoadang210903@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" alt="Gmail" />
-  </a>
+
   <a href="https://www.facebook.com/share/1AFzV5LQ3z/?mibextid=wwXIfr">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="45" alt="Facebook" />
   </a>
